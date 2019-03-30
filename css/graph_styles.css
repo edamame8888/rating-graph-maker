@@ -1,3 +1,10 @@
-#myCanvas {
-  background-color: #e9f3f5;
+#container {
+	min-width: 310px;
+	max-width: 650px;
+	height: 400px;
+	margin: 0 auto;
+}
+
+.uk-margin {
+  text-align: center;
 }
